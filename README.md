@@ -8,7 +8,7 @@
  > 
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">src="https://cdn.discordapp.com/attachments/943256136142954509/965942766666383370/E-8m63FXEAEe8O4.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-
   </div>
   <br>
   <br>
