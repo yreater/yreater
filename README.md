@@ -8,7 +8,7 @@
  > 
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"   <img align="center" alt="Rafa-CSS" height="30" width="40" 
   </div>
   <br>
   <br>
