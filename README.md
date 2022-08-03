@@ -16,7 +16,7 @@
   <div> 
  <a href="https://discord.gg/FwzUusCMJd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "icefx2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = "https://twitter.com/yreater"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
  
   ![Snake animation](https://github.com/yreater/yreater/blob/output/github-contribution-grid-snake.svg)
  
