@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/yreater">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yreater)](https://github.com/yreater/github-readme-stats)
-
-
- > 
+[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yreater)](https://github.com/yreater/github-readme-stats)
+](https://github-readme-stats.vercel.app/api?username=yreater&show_icons=true&theme=tokyonight)
+    </div>
+ 
   
 <div style="display: inline_block"><br>
 
