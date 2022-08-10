@@ -4,7 +4,7 @@
 
 - 🔥 Junior C# Developer 
 
-<!--
+
 <br><br>
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -19,7 +19,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=yreater&show_icons=true&theme=tokyonight" alt="yreater's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yreater&layout=compact&theme=tokyonight" alt="yreater's most languages"/>
 </p>
--->
+
 
 <br><br>
 
