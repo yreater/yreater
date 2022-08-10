@@ -1,24 +1,37 @@
-## Gustavo Catuzzo
 
-<div align="center">
-  <a href="https://github.com/yreater">
-[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yreater)](https://github.com/yreater/github-readme-stats)
-](https://github-readme-stats.vercel.app/api?username=yreater&show_icons=true&theme=tokyonight)
-    </div>
- 
-  
-<div style="display: inline_block"><br>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo Catuzzo</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yreater&color=yellow" alt="Profile views" /> </p>
 
-  </div>
-  <br>
-  <br>
-  <br>
-  <div> 
- <a href="https://discord.gg/FwzUusCMJd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "icefx2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 🔥 Junior C# Developer 
 
- 
-  ![Snake animation](https://github.com/yreater/yreater/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<!--
+<br><br>
+## 🛠 &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<br><br>
+## ⚙️ &nbsp;GitHub Analytics
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=yreater&show_icons=true&theme=tokyonight" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yreater&layout=compact&theme=tokyonight" alt="maykbrito's most languages"/>
+</p>
+-->
+
+<br><br>
+
+## Contact
+
+<a href="https://www.linkedin.com/in/gustavo-catuzzo-39b304241/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/catuzzo_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
+<!--
+<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=yreater&layout=wide&show_reply=off&show_retweet=off" />
