@@ -26,10 +26,10 @@
 ## Contact
 
 <a href="https://www.linkedin.com/in/gustavo-catuzzo-39b304241/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-yreater-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/catuzzo_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-yreater-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
