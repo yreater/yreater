@@ -16,8 +16,8 @@
 <br><br>
 ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=yreater&show_icons=true&theme=tokyonight" alt="yreater's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yreater&layout=compact&theme=tokyonight" alt="yreater's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=yreater&count_private=true&show_icons=true&theme=tokyonight" alt="yreater's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yreater&layout=compact&count_private=true&theme=tokyonight" alt="yreater's most languages"/>
 </p>
 
 
